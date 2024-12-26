@@ -7,11 +7,10 @@ info:
         <h1>HTML Injection : Hello Security Experts</h1>
     </div>
     <div class="form-container">
-  <h1><font Color=red>Visit Our New WebSite </h1><h3><mark><a href="https://example.com">e x a m p l e . c o m </a></mark></h3><br><br><br>
-  "/><img src="x"><a href="https://evil.com">login</a><br>
-  <img src="x" onerror="alert('Image Injected!')"><br>
-  <strong style="color: red;">This is bold and red text</strong>
-  "><h1 style="color: red;">HTML Injection</h1>
+  <h1><font Color=red>Visit Our New WebSite </h1><h3><mark><a href="https://evil.com">evil.com </a></mark></h3><br><br><br>
+  "/><img src="x"><a href="https://evil.com">login</a><br><br><br><br>
+  <img src="x" onerror="alert('Image Injected!')"><br><br><br><br>
+  "><h1 style="color: red;">HTML Injection</h1><br><br><br>
 
 
 
