@@ -9,8 +9,6 @@ info:
     <div class="form-container">
   <h1><font Color=red>Visit Our New WebSite </h1><h3><mark><a href="https://evil.com">evil.com </a></mark></h3><br><br><br>
   "/><img src="x"><a href="https://evil.com">login</a><br><br><br><br>
-  <img src="x" onerror="alert('Image Injected!')"><br><br><br><br>
-  "><h1 style="color: red;">HTML Injection</h1><br><br><br>
 
 
 
