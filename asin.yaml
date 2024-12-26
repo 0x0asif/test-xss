@@ -8,7 +8,11 @@ info:
     </div>
     <div class="form-container">
   <h1><font Color=red>Visit Our New WebSite </h1><h3><mark><a href="https://example.com">e x a m p l e . c o m </a></mark></h3><br><br><br>
-  "/><img src="x"><a href="https://evil.com">login</a>
+  "/><img src="x"><a href="https://evil.com">login</a><br>
+  <img src="x" onerror="alert('Image Injected!')"><br>
+  <strong style="color: red;">This is bold and red text</strong>
+
+
     </div>
 </div>'
 paths:
