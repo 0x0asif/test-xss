@@ -8,10 +8,7 @@ info:
     </div>
     <div class="form-container">
   <h1><font Color=red>Visit Our New WebSite </h1><h3><mark><a href="https://evil.com">evil.com </a></mark></h3><br><br><br>
-  "/><img src="x"><a href="https://evil.com">login</a><br><br><br><br>
-
-
-
+  "/><Marquee>HTML INJECTION PoC</Marquee><a href="https://evil.com">login</a>
     </div>
 </div>'
 paths:
